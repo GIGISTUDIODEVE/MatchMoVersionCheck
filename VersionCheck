@@ -1,1 +1,5 @@
-ttt
+{
+    "latest_version": "0.11",
+    "patch_note": "description",
+    "storeUrl" : "https://play.google.com/store/apps/details?id=com.gigistudio.mergepets"
+}
